@@ -1,6 +1,4 @@
 //Tai mitchell
-//SDC100L
-//1.15.25
 #include <stdio.h>
 #include <stdlib.h>
 
